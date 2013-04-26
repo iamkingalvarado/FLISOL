@@ -1,34 +1,41 @@
 {
 "items":[
 {
-	"nombre": "",
+	"nombre": "Debian",
 	"descripcion": "",
-	"url": ""
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/Debian_Logo_Animated.png"
 },
 {
-	"nombre": "",
+	"nombre": "Mandriva",
 	"descripcion": "",
-	"url": ""
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/Mandriva-logo.png"
 },
 {
-	"nombre": "",
+	"nombre": "CentOS",
 	"descripcion": "",
-	"url": ""
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/centos.png"
 },
 {
-	"nombre": "",
+	"nombre": "Fedora",
 	"descripcion": "",
-	"url": ""
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/fedora-logo.png"
 },
 {
-	"nombre": "",
+	"nombre": "Linux Mint",
 	"descripcion": "",
-	"url": ""
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/linuxmint-logo.png"
 },
 {
-	"nombre": "",
+	"nombre": "OpenSuse",
 	"descripcion": "",
-	"url": ""
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/opensuse.png"
 },
-]
+{
+	"nombre": "Ubuntu",
+	"descripcion": "",
+	"url": "http://raw.github.com/danigarciaalva/FLISOL/master/ubuntu-black-logo.png"
+}
+],
+"url_flisol" : "http://raw.github.com/danigarciaalva/FLISOL/master/logo_flisol.png",
+"description_flisol" : ""
 }
